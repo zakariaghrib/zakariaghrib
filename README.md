@@ -10,7 +10,7 @@ Je travaille actuellement sur des projets d'entraînement JavaScript et des appl
 ## 🧠 Technologies et compétences
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Learning](https://img.shields.io/badge/-Learning-007acc?style=for-the-badge&logo=googlescholar&logoColor=white)
+
 
 ---
 
