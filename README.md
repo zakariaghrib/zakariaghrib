@@ -1,34 +1,6 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 🖋️ My Most Used Topics
 
-## 💡 À propos de moi
-
-Je suis un développeur passionné par JavaScript, le web, et l'apprentissage constant.  
-Je travaille actuellement sur des projets d'entraînement JavaScript et des applications interactives.
-
----
-
-## 🧠 Technologies et compétences
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-
-
----
-
-## 📌 Projets épinglés
-
-- [🔹 NfcCard](https://github.com/zakariaghrib/NfcCard)  
-- [🔹 JavaScript-Training-](https://github.com/zakariaghrib/JavaScript-Training-)
-
----
-
-## 📈 Contributions GitHub
-
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariaghrib&show_icons=true&theme=radical)
-
----
-
-## 🎯 Objectifs 2025
-
-- [x] Renforcer mes bases en JavaScript
-- [ ] Apprendre React.js
-- [ ] Contribuer à un projet open-source
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![LEARNING](https://img.shields.io/badge/LEARNING-00BFFF?style=for-the-badge&logo=google&logoColor=white)
+![ANDROID](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
